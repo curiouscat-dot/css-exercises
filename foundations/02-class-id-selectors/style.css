@@ -1,0 +1,22 @@
+/* style.css */
+
+.standard, .excel{
+    background-color: pink;
+    font-family: Verdana, DejaVu, sans-serif;
+
+}
+
+#unique{
+    font-size: 36px;
+    color: blue;
+}
+
+#unique2{
+    background-color: lightgreen;
+    font-weight: 700;
+    font-size: 24px;
+}
+
+.excel{
+    font-size: 24px ;
+}
